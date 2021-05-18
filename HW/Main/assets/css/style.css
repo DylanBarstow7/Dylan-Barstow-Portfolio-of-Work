@@ -238,8 +238,8 @@ img{
   background-image: url("../images/02-run-buddy.jpg");
 }
 
-.led-wall {
-  background-image: url("../images/02-portfolio-1.jpg");
+.code-refactor {
+  background-image: url("../images/Code-Refactor.PNG");
 }
 
 .react-calc {
@@ -251,7 +251,7 @@ img{
 }
 
 .Prework-About-Me {
-  background-image: url("../images/Student\ Bio.PNG");
+  background-image: url("../images/Pre-work\ About\ me.PNG");
 }
 
 /* end portfolio project images */

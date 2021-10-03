@@ -11,7 +11,7 @@ Link to deployed site: https://dylanbarstow7.github.io/Dylan-Barstow-Portfolio-o
 ## Description
 A portfolio showcasing my work throughout the Washington University Coding Bootcamp This is the first version of this portfolio page. More content will be added as it's submitted.
 
-!(alt text)()
+!(alt text)(https://github.com/DylanBarstow7/Dylan-Barstow-Portfolio-of-Work/blob/main/assets/images/portfolio2.PNG)
 
 ## Contact
 For enquiries contact me at dcbarstow7@gmail.com. 
